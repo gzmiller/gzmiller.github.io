@@ -2,7 +2,7 @@
 layout:     post
 title:      "Lorem Ipsum"
 subtitle:   "Dolor Sit Amet"
-date:       0000-00-00 00:00:00
+date:       20000-01-01 00:00:00
 author:     "Your Name"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
