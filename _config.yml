@@ -1,10 +1,10 @@
 # Site settings
-title: Gzmiller Blog
-SEOTitle: Gzmiller Blog | Home
+title: Your Blog
+SEOTitle: Your Blog | Lorem Ipsum
 header-img: img/home-bg.jpg
-email: millerpiao@yandex.com
+email: username@email.com
 description: "Lorem ipsum"
-keyword: "Gzmiller Blog"
+keyword: "Your Blog"
 url: "https://gzmiller.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
