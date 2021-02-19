@@ -3,7 +3,7 @@ layout:     post
 title:      "Lorem Ipsum"
 subtitle:   "Dolor Sit Amet"
 date:       20000-01-01 00:00:00
-author:     "Your Name"
+author:     "You"
 header-img: "img/post-bg-2015.jpg"
 catalog: true
 tags:
